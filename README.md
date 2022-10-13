@@ -1,20 +1,24 @@
 SLackathon-Weather-Analysis-Pavan
 # Weather Analysis and Visualization
 
-Contents
-  > Contents
-  > Short description
-    > What's the problem?
-    > How can technology help?
-    > The idea
+## Contents
+* [Contents](#Contents)
+* Short description
+  - What's the problem?
+  - How can technology help?
+  - The idea
+* Demo
 
 
-Short description
-What's the problem?
-Lack of weather foresting Construction and Mining industries used face lot of problems and loss investment on Manpower, Raw materials and sometimes lives due to unexpected events during heavy rainfalls.
+## Short description
+### What's the problem?
+Rainfall occurs during the monsoon and pre-monsoon seasons, and high intensity storms that occur during the monsoon season cause heavy discharges in all rivers. As a result, a few states in India suffered massive human loss, as did many other similar events around the world that are uncontrollable, but we can save people, land, and property from these events. Also In terms of economy and environment, our daily lives are directly or indirectly influenced by the weather, which affects us through a variety of factors such as events, timing, duration, location, and so on.
 
-How can technology help?
-Technology can help in analysis the feature weather conditions to plan the mining and constructions works accordingly.
+### How can technology help?
+Weather analysis and forecasting is a scientific and technological application that predicts the atmospheric conditions for an upcoming point in time and a given location.
 
-The Idea
-From the past weather history at specific location, we will train the best Machine learning Algorithm to predict the future weather condition, so that we can inform Construction and mining Industries about the weather conditions in upcoming days. So that these industries can plan to deploy manpower, arranging Raw materials and necessary safety precautions depends on the weather condition to avoid revenue loss, and worker life losses due to unexpected events.
+### The Idea
+Training the Machine Learning model to predict future weather conditions based on past weather data at a specific location, so that people and farmers can be informed about the weather conditions in the coming days. So that necessary safety precautions can be planned in order to save human life losses, improve crop yields, and avoid economic losses due to unexpected events.
+
+
+## Demo
